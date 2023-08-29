@@ -1,6 +1,6 @@
 # 逃離洼地計劃EMP - Escape from Mainland Program.
 
-<u>*Find a University Overseas.*</u>
+<u>*Find/Get a University Overseas.*</u>
 
 ## 介绍 - Introduction
 
