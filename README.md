@@ -100,7 +100,11 @@ ETH地址0x5134402996be9A0B2B3FFE61D4E02eA780aA9768
 
 LikeCoin地址like1f5j24p54yll9jppc4ggcykvxll78r6ddm9kudc
 
-认识作者：Leo, Xu(zongtianshuo)
+认识作者：
+
+Leo, Xu(zongtianshuo) zongtianshuo@gmail.com
+
+
 
 ## 许可证 - License
 
